@@ -4,14 +4,3 @@ numpy
 folium
 streamlit-folium
 plotly
-pydeck
-
-# Geospatial stack (pinned versions to avoid GDAL crash)
-geopandas==0.12.2
-shapely==1.8.5
-pyproj==3.4.0
-fiona==1.8.21
-GDAL==3.4.1
-
-# Other optional utils
-scikit-learn
