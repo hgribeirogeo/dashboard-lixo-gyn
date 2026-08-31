@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Urban Waste Detection Dashboard — Goiânia"
+type: software
+authors:
+  - family-names: "Ribeiro"
+    given-names: "Hugo José"
+version: "1.0.0"
+date-released: "2026-08-31"
+license: MIT
+repository-code: "https://github.com/hgribeirogeo/dashboard-lixo-gyn"
+keywords:
+  - GeoAI
+  - computer vision
+  - urban waste
+  - spatial analysis
+  - municipal management
+  - Streamlit

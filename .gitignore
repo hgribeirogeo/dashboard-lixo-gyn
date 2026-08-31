@@ -1,0 +1,39 @@
+# Input data and generated outputs
+data/
+outputs/
+results/
+*.csv
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.tiff
+
+# Computer-vision assets
+*.pt
+*.pth
+*.onnx
+runs/
+weights/
+datasets/
+
+# Credentials and local configuration
+.env
+.env.*
+credentials.json
+service-account*.json
+*.pem
+*.key
+
+# Python / Streamlit / Jupyter
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
